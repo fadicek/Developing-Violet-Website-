@@ -4,4 +4,5 @@ body{cursor:url(site/source/cursor.html),auto!important;background:#000;color:#f
   }  
   @font-face {
     font-family: "Heartless";
-    src: url(site/source/heartless.ttf);
+    src: url(../source/heartless.ttf);
+}
